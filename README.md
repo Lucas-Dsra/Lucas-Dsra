@@ -191,7 +191,7 @@ graph TD
   <a href="mailto:lucas.dsras@gmail.com"><img src="https://img.shields.io/badge/lucas.dsras@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Lucas-Dsra"><img src="https://img.shields.io/badge/GitHub-Lucas--Dsra-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <!-- Troque pelo seu LinkedIn real -->
-  <a href="https://www.linkedin.com/in/lucas-ramalho/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Ramalho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lucas-dsra/"><img src="https://img.shields.io/badge/LinkedIn-Lucas%20Ramalho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
